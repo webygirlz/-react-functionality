@@ -1,0 +1,32 @@
+[
+    {
+        "id" :1,
+        "name":"Public",
+        "IsFolder":true,
+        "children":[
+            {
+                "id" :2,
+                "name":"index.html",
+                "IsFolder":false
+            }
+        ]
+    },
+    {
+        "id" :3,
+        "name":"src",
+        "IsFolder":true,
+        "children":[
+            {
+                "id" :4,
+                "name":"component",
+                "IsFolder":false
+            }
+        ]
+        
+    },
+    {
+        "id" :5,
+        "name":"data",
+        "IsFolder":true
+    }
+]

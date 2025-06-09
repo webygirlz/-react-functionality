@@ -1,0 +1,6 @@
+.homeContainer {
+    border: 2px solid rebeccapurple;
+    /* display: grid; */
+    grid-template-columns: repeat(4, 20rem);
+    gap: 2rem;
+}

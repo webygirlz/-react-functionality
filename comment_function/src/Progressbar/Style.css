@@ -1,0 +1,15 @@
+.contain{
+    width: 80%;
+    height: 2rem;
+    border: 2px solid black;
+    margin: .9rem;
+    border-radius: 30px;
+    overflow: hidden;
+    width: fit-content;
+}
+.con{
+    height: inherit;
+    width: 30%;
+    background: red;
+    text-align: center;
+}

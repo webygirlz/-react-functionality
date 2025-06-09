@@ -1,0 +1,31 @@
+/* .productContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.ProductItem-img{
+    width: 200px;
+    height: 300px;
+}
+
+.productContainer{
+    border: 2px solid black;
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    margin: 1rem;
+    padding: 1rem;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.number{
+    padding: .5rem;
+     text-align: center;
+    border: 1px solid black;
+    margin-left: 3px;
+}
+.active{
+    background: peru;
+}

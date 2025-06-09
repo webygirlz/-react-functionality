@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 500px;
+    margin: 2rem;
+}
+input{
+    width: 500px;
+    padding: .5rem;
+}
+.result-container{
+    width: 500px;
+    max-height: 200px;
+    border: 1px solid black;
+   overflow-y: scroll;
+}
+.result{
+     display: block;
+     padding-left: .4rem;
+     padding-bottom: .3rem;
+}
+.result:hover{
+    cursor: pointer;
+    background: gainsboro;
+}
